@@ -16,7 +16,7 @@ untuk push
 git reset HEAD^
 cara mereset folder yang sudah ada di commit
 
-<!-- #git -->
+## <!-- #git -->
 
 langkah git
 git init
